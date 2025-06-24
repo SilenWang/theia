@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "@theia/example-browser",
+  "name": "browser-ide",
   "version": "1.62.0",
   "license": "EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0",
   "theia": {
     "frontend": {
       "config": {
-        "applicationName": "Theia Browser Example",
+        "applicationName": "Theia Browser App",
         "preferences": {
           "files.enableTrash": false,
           "security.workspace.trust.enabled": false
@@ -16,13 +16,12 @@
     },
     "backend": {
       "config": {
-        "frontendConnectionTimeout": 3000
+        "frontendConnectionTimeout": 6000
       }
     }
   },
   "theiaPluginsDir": "../../plugins",
   "dependencies": {
-    "@theia/ai-anthropic": "1.62.0",
     "@theia/ai-chat": "1.62.0",
     "@theia/ai-chat-ui": "1.62.0",
     "@theia/ai-code-completion": "1.62.0",
@@ -30,17 +29,12 @@
     "@theia/ai-editor": "1.62.0",
     "@theia/ai-google": "1.62.0",
     "@theia/ai-history": "1.62.0",
-    "@theia/ai-huggingface": "1.62.0",
     "@theia/ai-ide": "1.62.0",
     "@theia/ai-llamafile": "1.62.0",
     "@theia/ai-mcp": "1.62.0",
     "@theia/ai-ollama": "1.62.0",
     "@theia/ai-openai": "1.62.0",
-    "@theia/ai-scanoss": "1.62.0",
     "@theia/ai-terminal": "1.62.0",
-    "@theia/ai-vercel-ai": "1.62.0",
-    "@theia/api-provider-sample": "1.62.0",
-    "@theia/api-samples": "1.62.0",
     "@theia/bulk-edit": "1.62.0",
     "@theia/callhierarchy": "1.62.0",
     "@theia/collaboration": "1.62.0",

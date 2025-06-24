@@ -6,63 +6,6 @@
   },
   "references": [
     {
-      "path": "../../dev-packages/cli"
-    },
-    {
-      "path": "../../dev-packages/native-webpack-plugin"
-    },
-    {
-      "path": "../../packages/ai-anthropic"
-    },
-    {
-      "path": "../../packages/ai-chat"
-    },
-    {
-      "path": "../../packages/ai-chat-ui"
-    },
-    {
-      "path": "../../packages/ai-code-completion"
-    },
-    {
-      "path": "../../packages/ai-core"
-    },
-    {
-      "path": "../../packages/ai-editor"
-    },
-    {
-      "path": "../../packages/ai-google"
-    },
-    {
-      "path": "../../packages/ai-history"
-    },
-    {
-      "path": "../../packages/ai-hugging-face"
-    },
-    {
-      "path": "../../packages/ai-ide"
-    },
-    {
-      "path": "../../packages/ai-llamafile"
-    },
-    {
-      "path": "../../packages/ai-mcp"
-    },
-    {
-      "path": "../../packages/ai-ollama"
-    },
-    {
-      "path": "../../packages/ai-openai"
-    },
-    {
-      "path": "../../packages/ai-scanoss"
-    },
-    {
-      "path": "../../packages/ai-terminal"
-    },
-    {
-      "path": "../../packages/ai-vercel-ai"
-    },
-    {
       "path": "../../packages/bulk-edit"
     },
     {
@@ -205,12 +148,6 @@
     },
     {
       "path": "../../packages/workspace"
-    },
-    {
-      "path": "../api-provider-sample"
-    },
-    {
-      "path": "../api-samples"
     }
   ]
 }

@@ -3,8 +3,8 @@
   "version": "1.62.0",
   "description": "Theia - AI communication history",
   "dependencies": {
-    "@theia/ai-core": "1.62.0",
     "@theia/ai-chat-ui": "1.62.0",
+    "@theia/ai-core": "1.62.0",
     "@theia/core": "1.62.0",
     "@theia/filesystem": "1.62.0",
     "@theia/output": "1.62.0",

@@ -6,9 +6,6 @@
   },
   "references": [
     {
-      "path": "../../dev-packages/cli"
-    },
-    {
       "path": "../../packages/ai-chat"
     },
     {
